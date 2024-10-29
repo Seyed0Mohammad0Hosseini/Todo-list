@@ -58,4 +58,6 @@ pip install streamlit
 streamlit web.py
 ```
 
-
+### Notes
+Actually, I wrote some basics tips which relavant to python basic. 
+I hope this is useful for you :)
