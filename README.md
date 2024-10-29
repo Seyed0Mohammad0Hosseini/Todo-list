@@ -22,10 +22,18 @@ A graphical interface version built using the `PySimpleGUI`, `time`, and `os` li
 - **`os` library**: Helps with file management for storing tasks locally and handling file-based operations.
 - **Features**: This version allows users to interact through a friendly GUI and is ideal for desktop use.
 
+### Desktop Version Tutorial
+
+![Desktop Version](image/desktop-version.png)
+
 ### 3. Web Version
 An online version built using the `Streamlit` library, making the app accessible via a web browser.
 - **`Streamlit`**: A Python library for building and sharing web apps quickly and interactively. It’s designed to be user-friendly, focusing on turning data scripts into web applications effortlessly.
 - **Features**: The web version allows remote access and easy deployment for task management from anywhere with internet access.
+
+### Web Version Tutorial
+
+![Desktop Version](image/web-version.png)
 
 ## Getting Started
 
